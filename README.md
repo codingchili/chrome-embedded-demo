@@ -1,5 +1,5 @@
 # chrome-embedded-demo
-Simple demo using the chrome embedded framework with CFE4Delphi to load an SPA as a desktop App.
+Simple demo using the chrome embedded framework with CFE4Delphi to load a Polymer2 SPA as a desktop App.
 
 ![preview.png](https://raw.githubusercontent.com/codingchili/chrome-embedded-demo/master/preview.png)
 
